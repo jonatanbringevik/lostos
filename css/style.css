@@ -2,3 +2,45 @@
  * @file
  * Subtheme specific CSS.
  */
+
+p{
+color:#00FFFF;
+}
+#main-wrapper{
+background-color:black;
+background-image:url(//images.pexels.com/photos/28529892/pexels-photo-28529892.jpeg);
+}
+#header{
+    color:#00FFFF;
+    background-image:url(https://images.pexels.com/photos/2740844/pexels-photo-2740844.jpeg) ;
+}
+h2{
+    color:#00FFFF;
+    font-size: 2em;
+}
+.navbar-brand{
+    color:#00FFFF;
+    font-size:11.5em;
+    margin:auto;
+    width:5em;
+    text-align:center;  
+}  
+#block-lostos-lostos{
+     background-color: black;
+}
+#block-lostos-search-form-narrow{
+background-color: BLACK;
+}
+#content{
+    background-color:black;
+}
+#navbar-main{
+    background-color: black;
+    background-image: url(https://images.pexels.com/photos/3887574/pexels-photo-3887574.jpeg);
+}
+h2 span{
+    color:#00FFFF;
+}
+.navbar-brand:hover{
+color:#FF69B4;
+}

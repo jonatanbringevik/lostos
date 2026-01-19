@@ -7,7 +7,7 @@
 
   'use strict';
 
-  Drupal.behaviors.lotos = {
+  Drupal.behaviors.lostos = {
     attach: function (context, settings) {
 
     }
