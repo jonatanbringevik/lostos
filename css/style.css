@@ -12,7 +12,7 @@ background-image:url(//images.pexels.com/photos/28529892/pexels-photo-28529892.j
 }
 #header{
     color:#00FFFF;
-    background-image:url(https://images.pexels.com/photos/2740844/pexels-photo-2740844.jpeg) ;
+    background-image:url(https://images.pexels.com/photos/2740844/pexels-photo-2740844.jpeg);
 }
 h2{
     color:#00FFFF;
@@ -43,4 +43,11 @@ h2 span{
 }
 .navbar-brand:hover{
 color:#FF69B4;
+}   
+#block-lostos-webform--2{
+    background-color:black;
+    color:#00FFFF;
+}
+.webform-element-description{
+    color:#00FFFF;
 }
